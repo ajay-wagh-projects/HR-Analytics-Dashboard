@@ -2,7 +2,8 @@
 
 An interactive Power BI dashboard that analyzes employee attrition trends, helping HR teams identify the key drivers behind employee turnover and make data-informed retention decisions.
 
-![HR Analytics Dashboard](dashboard_screenshot.png)
+<img width="584" height="330" alt="image" src="https://github.com/user-attachments/assets/4419f373-2e59-4acd-9ac8-9210ddee0f83" />
+
 
 ## 📊 Overview
 
